@@ -82,3 +82,4 @@ product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
 -product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
 -product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
+-system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;PRESIGNED;OVERRIDES=Launcher3QuickStep
