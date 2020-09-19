@@ -17,6 +17,9 @@ $(call inherit-product-if-exists, vendor/google/pixel/pixel-vendor.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \
+    IconPackCircularPixelLauncherOverlay \
+    IconPackFilledPixelLauncherOverlay \
+    IconPackRoundedPixelLauncherOverlay \
     PixelFrameworksOverlay \
     PixelSettingsOverlay \
     PixelSystemUIOverlay
