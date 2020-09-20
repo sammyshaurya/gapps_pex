@@ -1,5 +1,8 @@
 -product/app/MarkupGoogle/MarkupGoogle.apk;PRESIGNED
+-product/app/MicropaperPrebuilt/MicropaperPrebuilt.apk;PRESIGNED
 -product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED
+-product/app/WallpapersBReel2019/WallpapersBReel2019.apk;PRESIGNED
+-product/app/WallpapersBReel2020a/WallpapersBReel2020a.apk;PRESIGNED
 product/etc/default-permissions/default-permissions.xml
 product/etc/permissions/privapp-permissions-google-p.xml
 product/etc/res/images/charger/battery_fail.png
@@ -14,6 +17,7 @@ product/fonts/GoogleSans-Italic.ttf
 product/fonts/GoogleSans-MediumItalic.ttf
 product/fonts/GoogleSans-Medium.ttf
 product/fonts/GoogleSans-Regular.ttf
+product/lib64/libgdx.so
 product/lib64/libsketchology_native.so
 product/media/audio/alarms/A_real_hoot.ogg
 product/media/audio/alarms/Bright_morning.ogg
@@ -81,5 +85,6 @@ product/media/audio/ui/VideoRecord.ogg
 product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
 -product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
+-product/priv-app/PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk;PRESIGNED
 -product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
 -system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;PRESIGNED;OVERRIDES=Launcher3QuickStep
