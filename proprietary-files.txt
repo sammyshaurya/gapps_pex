@@ -1,6 +1,6 @@
 -product/app/MarkupGoogle/MarkupGoogle.apk;PRESIGNED
 -product/app/MicropaperPrebuilt/MicropaperPrebuilt.apk;PRESIGNED
--product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED
+-product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED;OVERRIDES=SoundPicker
 -product/app/WallpapersBReel2019/WallpapersBReel2019.apk;PRESIGNED
 -product/app/WallpapersBReel2020a/WallpapersBReel2020a.apk;PRESIGNED
 product/etc/default-permissions/default-permissions.xml
