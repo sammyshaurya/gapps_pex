@@ -99,8 +99,11 @@ PRODUCT_COPY_FILES += \
     vendor/google/pixel/proprietary/product/media/audio/ui/camera_focus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_focus.ogg
 
 PRODUCT_PACKAGES += \
+    arcore \
     MarkupGoogle \
     MicropaperPrebuilt \
+    NexusWallpapersStubPrebuilt2020_midyear \
+    PixelThemesStub2020_midyear \
     SoundPickerPrebuilt \
     WallpapersBReel2019 \
     WallpapersBReel2020a \
